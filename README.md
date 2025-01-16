@@ -2,7 +2,7 @@
 - 👀 I’m interested in The Great Outdoors, the mediocre indoors, CSS, JavaScript, and UX Design.
 - 🌱 I’m currently learning HTML, CSS, JavaScript - The FrontEnd Dev Trio
 - 💞️ I’m looking to collaborate on cake
-- 📫 How to reach me jfcrane247@gmail.com
+- 📫 How to reach me jfcrane247@outlook.com
 
 <!---
 jfcrane247/jfcrane247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
